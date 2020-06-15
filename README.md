@@ -1,1 +1,2 @@
-# Wang-s-python-code
+这里有我的编程项目，大多数将会是python。
+我也是hackintosh的爱好者所以我也会提供一些关于它的可用文件，会持续地更新。
